@@ -1,3 +1,4 @@
+```html
 Question : Create an array with the values (1, 2, 3, 4, 5, 6, 7) and shuffle it. 
 
 Firstly, Lets Understand the Question in detail :  Imagine you have a set of cards with numbers written on them: 1, 2, 3, 4, 5, 6, and 7. Creating an array is like arranging these cards in a specific order in front of you. So, you create an array and put these numbers in it, making it look like this: [1, 2, 3, 4, 5, 6, 7]. Now, shuffling the array is like mixing up these cards randomly. You don't know which number will come where after the shuffle. In programming, shuffling means rearranging the order of the numbers. So, after shuffling, the array might look like this: [5, 3, 1, 7, 2, 4, 6].
